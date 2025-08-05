@@ -31,5 +31,6 @@ payload:
   - DOMAIN,api.ip.sb
   - DOMAIN,ipapi.co
   - DOMAIN,ipinfo.io
+  - +.ipinfo.io
   - +.2ip.io
   - +.2ipcore.com
