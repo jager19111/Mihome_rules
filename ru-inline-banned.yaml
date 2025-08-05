@@ -28,3 +28,9 @@ payload:
   #---- Проверка IP ----
   - +.ifconfig.me
   - +.browserleaks.com
+  - DOMAIN,ipwho.is
+  - DOMAIN,api.ip.sb
+  - DOMAIN,ipapi.co
+  - DOMAIN,ipinfo.io
+  - +.2ip.io
+  - +.2ipcore.com
