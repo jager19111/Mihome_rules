@@ -1,6 +1,5 @@
 payload:
   # ---- Заблокированные русские домены ----
-  - +.habr.com
   - +.kemono.su
   - +.jut.su
   - +.kara.su
