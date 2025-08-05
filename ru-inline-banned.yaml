@@ -30,7 +30,6 @@ payload:
   - DOMAIN,ipwho.is
   - DOMAIN,api.ip.sb
   - DOMAIN,ipapi.co
-  - DOMAIN,ipinfo.io
-  - +.ipinfo.io
+  - DOMAIN-KEYWORD,ipinfo
   - +.2ip.io
   - +.2ipcore.com
