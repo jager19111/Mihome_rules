@@ -1,6 +1,5 @@
 payload:
   # ---- Заблокированные русские домены ----
-  - +.kemono.su
   - +.jut.su
   - +.kara.su
   - +.theins.ru
@@ -13,7 +12,8 @@ payload:
     # ---- Заблокированные зарубежные  домены ----
   - +.wattpad.com
     # ---- Аниме и развлекательные ресурсы ----
-  - DOMAIN-KEYWORD,animego
+  - DOMAIN-KEYWORD,kemono
+  - DOMAIN-KEYWORD,animego  
   - DOMAIN-KEYWORD,yummyanime
   - DOMAIN-KEYWORD,yummy-anime
   - DOMAIN-KEYWORD,animeportal
