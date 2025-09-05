@@ -1,5 +1,6 @@
 payload:
   # ---- Заблокированные русские домены ----
+  - +.kemono.cr
   - +.jut.su
   - +.kara.su
   - +.theins.ru
@@ -12,24 +13,23 @@ payload:
     # ---- Заблокированные зарубежные  домены ----
   - +.wattpad.com
     # ---- Аниме и развлекательные ресурсы ----
-  - DOMAIN-KEYWORD,kemono
   - DOMAIN-KEYWORD,animego  
   - DOMAIN-KEYWORD,yummyanime
   - DOMAIN-KEYWORD,yummy-anime
-  - DOMAIN-KEYWORD,animeportal
-  - DOMAIN-KEYWORD,anime-portal
   - DOMAIN-KEYWORD,animedub
   - DOMAIN-KEYWORD,anidub
   - DOMAIN-KEYWORD,animelib
   - DOMAIN-KEYWORD,ikianime
   - DOMAIN-KEYWORD,anilibria
+  - +.anime-portal.su
+  - +.myanimeshelf.com
 
   #---- Проверка IP ----
   - +.ifconfig.me
   - +.browserleaks.com
-  - DOMAIN,ipwho.is
-  - DOMAIN,api.ip.sb
-  - DOMAIN,ipapi.co
-  - DOMAIN-KEYWORD,ipinfo
+  - +.ipwho.is
+  - +.api.ip.sb
+  - +.ipapi.co
+  - +.ipinfo
   - +.2ip.io
   - +.2ipcore.com
