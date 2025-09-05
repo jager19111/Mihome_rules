@@ -13,16 +13,15 @@ payload:
     # ---- Заблокированные зарубежные  домены ----
   - +.wattpad.com
     # ---- Аниме и развлекательные ресурсы ----
-  - DOMAIN-KEYWORD,animego  
-  - DOMAIN-KEYWORD,yummyanime
-  - DOMAIN-KEYWORD,yummy-anime
-  - DOMAIN-KEYWORD,animedub
-  - DOMAIN-KEYWORD,anidub
-  - DOMAIN-KEYWORD,animelib
-  - DOMAIN-KEYWORD,ikianime
-  - DOMAIN-KEYWORD,anilibria
+  - +.animelib.org
+  - +.anilib.me
+  - +.yummyanime.tv
+  - +.yummyani.me
+  - +.yammyanime.club
+  - +.animego.online
   - +.anime-portal.su
   - +.myanimeshelf.com
+  - +.vost.pw
 
   #---- Проверка IP ----
   - +.ifconfig.me
