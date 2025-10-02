@@ -22,6 +22,8 @@ payload:
   - +.artfut.com
   - +.2gis.com
   - +.aliexpress.com
+  - +.aliexpress-media.com+
+  - +.alibaba.com
   - +.roblox.com
   - +.ngenix.net
   - +.okko.tv
@@ -41,3 +43,7 @@ payload:
   - +.diginetica.com
   - +.shutterstock.com
   - +.premier.one
+  - +.taplink.cc
+  - +.taplink.st
+  - +.taobao.com
+  - +.1688.com
