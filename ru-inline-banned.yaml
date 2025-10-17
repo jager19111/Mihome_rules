@@ -10,8 +10,6 @@ payload:
   - +.snob.ru
   - +.novayagazeta.ru
   - +.moscowtimes.ru
-    # ---- Заблокированные зарубежные  домены ----
-  - +.wattpad.com
     # ---- Аниме и развлекательные ресурсы ----
   - +.animelib.org
   - +.anilib.me
@@ -32,6 +30,9 @@ payload:
   - +.ipinfo
   - +.2ip.io
   - +.2ipcore.com
+  # ---- Заблокированные зарубежные  домены ----
+  - +.wattpad.com
   - +.duckdns.org
   - +.lantian.pub
   - +.imgbb
+  - +.ovh.net
