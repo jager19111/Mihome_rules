@@ -1,5 +1,8 @@
 payload:
     - +.2ip.ru
     - +.mycdn.me
-    - +.vk.com
     - +.roblox.com
+    # VK
+    - +.vk.com
+    - +.okcdn.ru
+    - +.userapi.com
