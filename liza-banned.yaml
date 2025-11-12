@@ -6,3 +6,7 @@ payload:
     - +.vk.com
     - +.okcdn.ru
     - +.userapi.com
+    # TikTok
+    - +.tiktokv.eu
+    - +.tiktokcdn-eu.com
+    - +.tiktokcdn-us.com
