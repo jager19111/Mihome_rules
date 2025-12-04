@@ -38,5 +38,8 @@ payload:
   - +.ovh.net
   - +.akile.io
   - +.gcore.com
+  # ---- Roblox ----
   - +.roblox.com
   - +.rbxcdn.com
+  - +.cdn.arkoselabs.com
+
