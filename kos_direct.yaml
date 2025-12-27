@@ -3,7 +3,6 @@ payload:
     - gamelift.eu-central-1.api.aws
     - api.epicgames.dev
     - +.ea.com
-    - +.data.ea.com
     - +.stryder.respawn.com
     - sdk.fra-01.braze.eu
     - +.amazonaws.com
