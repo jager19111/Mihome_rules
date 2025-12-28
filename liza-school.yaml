@@ -1,3 +1,4 @@
 payload:
-    - +.strm.yandex.net #яндекс музыка
+    #яндекс музыка
+    - +.strm.yandex.net
     - +.music.yandex.net
