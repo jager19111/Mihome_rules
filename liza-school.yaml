@@ -2,3 +2,4 @@ payload:
     #яндекс музыка
     - +.strm.yandex.net
     - +.music.yandex.net
+    - api.music.yandex.net
