@@ -1,12 +1,11 @@
 payload:
     - +.2ip.ru
+    - +.yastatic.net
+    - +.yandex.net
+    - +.yandex.kz
+    - +.yandex.com
     - +.mycdn.me
-    - +.roblox.com
-    # VK
-    - +.vk.com
-    - +.okcdn.ru
-    - +.userapi.com
-    # TikTok
-    - +.tiktokv.eu
-    - +.tiktokcdn-eu.com
-    - +.tiktokcdn-us.com
+    - +.2gis.com
+    - +.aliexpress.com
+    - +.aliexpress-media.com
+    - +.alibaba.com
