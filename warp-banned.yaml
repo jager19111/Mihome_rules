@@ -7,6 +7,6 @@ payload:
   - +.ott.yandex.ru
   - +.strm.yandex.ru
   - +.reddit.com
-#  - +.yandex.net
-#  - +.yandex.ru
+  - +.ozon.ru
+  - +.ozonusercontent.com
 #  - +.rt.ru
