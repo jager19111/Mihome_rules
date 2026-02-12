@@ -2,7 +2,7 @@ payload:
 # Прочие сайты
     - +.technical.city
     - +.cybenetics.com
-# Age of Empires 4, Microsoft
+# Microsoft сервисы
     - +.windows.net
     - +.servicebus.windows.net
     - +.microsoft.com
