@@ -2,6 +2,7 @@ payload:
 # Прочие сайты
     - +.technical.city
     - +.cybenetics.com
+    - +.gamma.app
 # Microsoft сервисы
     - +.windows.net
     - +.servicebus.windows.net
