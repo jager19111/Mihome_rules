@@ -5,6 +5,7 @@ payload:
     - +.gamma.app
     - +.bilibili.com
     - +.notebooklm.google
+    - +.airtable.com
 # Microsoft сервисы
     - +.windows.net
     - +.servicebus.windows.net
