@@ -4,7 +4,7 @@ payload:
     - +.cybenetics.com
     - +.gamma.app
     - +.bilibili.com
-    - +.notebook.google.com
+    - +.notebooklm.google
 # Microsoft сервисы
     - +.windows.net
     - +.servicebus.windows.net
