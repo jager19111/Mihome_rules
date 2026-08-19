@@ -39,7 +39,4 @@ payload:
   - +.akile.io
   - +.gcore.com
   # ---- Roblox ----
-  - +.roblox.com
-  - +.rbxcdn.com
-  - +.cdn.arkoselabs.com
-
+  - +.docs.rw
