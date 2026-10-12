@@ -41,3 +41,5 @@ payload:
   # ---- Roblox ----
   - +.docs.rw
   - +.api.spotify.com
+  # ---- Apple переводчик ----  
+  - +.sequoia.apple.com
