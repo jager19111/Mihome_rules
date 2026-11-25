@@ -43,3 +43,9 @@ payload:
   - +.api.spotify.com
   # ---- Apple переводчик ----  
   - +.sequoia.apple.com
+  
+    # ---- Балансиры для просмотра фильмов ----  
+  - +.aport-as.allarknow.online
+  - +.api.luxembd.ws
+  - +.api.apbugall.org
+  - +.api.bhcesh.me
